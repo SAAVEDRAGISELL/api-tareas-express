@@ -26,3 +26,21 @@ Los datos se almacenan en memoria en un archivo JavaScript, sin utilizar base de
 
 ```bash
 npm install
+
+
+## Pruebas realizadas en Postman
+
+### GET – Listar tareas
+![GET](imagenes/GET.png)
+
+### POST – Crear tarea
+![POST](imagenes/POST.png)
+
+### PUT – Actualizar tarea
+![PUT](imagenes/PUT.png)
+
+### PUT – Segunda prueba
+![PUT 2](imagenes/PUT%202.png)
+
+### DELETE – Eliminar tarea
+![DELETE](imagenes/DELETE.png)
